@@ -13,7 +13,6 @@ public class App extends Application {
         stage.setScene(scene);
         stage.setTitle("Banking Application");
         stage.show();
-
     }
 }
 
