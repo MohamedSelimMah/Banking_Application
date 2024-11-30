@@ -18,4 +18,5 @@ module com.example.bankingapplication {
     exports com.example.bankingapplication.Controllers.Client;
     exports com.example.bankingapplication.Models;
     exports com.example.bankingapplication.Views;
+
 }
