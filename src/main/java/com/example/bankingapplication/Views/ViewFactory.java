@@ -48,4 +48,7 @@ public class ViewFactory {
         stage.setTitle("AmenBank Application");
         stage.show();
     }
+    public void closeStage(Stage stage){
+        stage.close();
+    }
 }
